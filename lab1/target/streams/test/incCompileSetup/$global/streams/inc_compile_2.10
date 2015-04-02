@@ -1,0 +1,246 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.3
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+33 items
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$1.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$10$$anonfun$apply$mcV$sp$1.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$10.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$11$$anonfun$apply$mcV$sp$2.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$11$$anonfun$apply$mcV$sp$3.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$11.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$12.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$13.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$14.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$15.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$16.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$23$$anonfun$apply$1.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$23.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$24$$anonfun$apply$2.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$24.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$apply$mcV$sp$5.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$18.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$19.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$2.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$20.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$21.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$22.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$3.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$4.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$5$$anonfun$apply$mcV$sp$4.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$5.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$6.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$7.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$8.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$9.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$treeFromList$1.class
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec.class
+binary dependencies:
+3 items
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /home/logan/Dropbox/programmingLanguages/lab1/lib/scalatest_2.10-2.0.jar
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+1 items
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1$
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+33 items
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$1
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$10
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$10$$anonfun$apply$mcV$sp$1
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$11
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$11$$anonfun$apply$mcV$sp$2
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$11$$anonfun$apply$mcV$sp$3
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$12
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$13
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$14
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$15
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$16
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$17
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$17$$anonfun$23
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$17$$anonfun$23$$anonfun$apply$1
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$17$$anonfun$24
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$17$$anonfun$24$$anonfun$apply$2
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$17$$anonfun$apply$mcV$sp$5
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$18
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$19
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$2
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$20
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$21
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$22
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$3
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$4
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$5
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$5$$anonfun$apply$mcV$sp$4
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$6
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$7
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$8
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$9
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$treeFromList$1
+used names:
+69 items
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> $org_scalatest_assert_macro_left
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> $org_scalatest_assert_macro_result
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> $org_scalatest_assert_macro_right
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> /:
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> <init>
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> ===
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Empty
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Equality
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> FlatSpec
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> IllegalArgumentException
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Int
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> List
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> ManifestFactory
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> None
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> SearchTree
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> abs
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> apply
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> assert
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> assertionsHelper
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> classType
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> convertToEqualizer
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> convertToInAndIgnoreMethods
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> convertToStringShouldWrapper
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> default
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> del
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> delete
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> deleteMin
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> eval
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> f
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> immutable
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> in
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> ins
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> insert
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> intercept
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> java
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> l
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> lang
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> macroAssert
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> n
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> org
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> package
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> reflect
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> repOk
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> repeat
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> scala
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> scalatest
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> scalautils
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> shorthandTestRegistrationFunction
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> should
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> sqrtErr
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> sqrtN
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> sqrtStep
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> t
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> t1
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> t10
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> t11
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> t2
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> t3
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> t4
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> t5
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> t6
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> t7
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> t8
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> t9
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> treeFromList
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> unary_!
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> xor
+product stamps:
+33 items
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$1.class -> lastModified(1423549157000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$10$$anonfun$apply$mcV$sp$1.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$10.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$11$$anonfun$apply$mcV$sp$2.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$11$$anonfun$apply$mcV$sp$3.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$11.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$12.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$13.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$14.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$15.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$16.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$23$$anonfun$apply$1.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$23.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$24$$anonfun$apply$2.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$24.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$apply$mcV$sp$5.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$18.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$19.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$2.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$20.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$21.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$22.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$3.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$4.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$5$$anonfun$apply$mcV$sp$4.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$5.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$6.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$7.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$8.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$9.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$treeFromList$1.class -> lastModified(1423549158000)
+/home/logan/Dropbox/programmingLanguages/lab1/target/scala-2.10/test-classes/Lab1Spec.class -> lastModified(1423549157000)
+source stamps:
+1 items
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> hash(04e75f84e5620f5c35e38fff828eda5613a542c8)
+binary stamps:
+3 items
+/home/logan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar -> lastModified(1380275091000)
+/home/logan/Dropbox/programmingLanguages/lab1/lib/scalatest_2.10-2.0.jar -> lastModified(1390529112000)
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> lastModified(1413953258000)
+class names:
+3 items
+/home/logan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar -> scala.Function1
+/home/logan/Dropbox/programmingLanguages/lab1/lib/scalatest_2.10-2.0.jar -> org.scalatest.FlatSpec
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> java.lang.IllegalArgumentException
+internal apis:
+1 items
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDBuiG+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAJc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDUrU4HQAGmNvbnZlcnRUb1N0cmluZ011c3RXcmFwcGVyc3EAfgALsE0vV3QAGWNvbnZlcnRUb1N0cmluZ0NhbldyYXBwZXJzcQB+AAsUPRS+dAASY29udmVydFRvRXF1YWxpemVyc3EAfgALBYuD33QAKGNvbnZlcnRUb0luQW5kSWdub3JlTWV0aG9kc0FmdGVyVGFnZ2VkQXNzcQB+AAvAwFBPdAAnc2hvcnRoYW5kU2hhcmVkVGVzdFJlZ2lzdHJhdGlvbkZ1bmN0aW9uc3EAfgALQZ0GpXQAFXVuY29uc3RyYWluZWRFcXVhbGl0eXNxAH4AC3wEh1N0ABtjb252ZXJ0VG9JbkFuZElnbm9yZU1ldGhvZHNzcQB+AAvsK7PYdAAcY29udmVydFRvU3RyaW5nU2hvdWxkV3JhcHBlcnNxAH4AC/3S9Q50ACFzaG9ydGhhbmRUZXN0UmVnaXN0cmF0aW9uRnVuY3Rpb251cQB+AAkAAACOc3EAfgALYA5ZBXQABmFzc2VydHNxAH4ACzj1zLJ0AAZub3RpZnlzcQB+AAvHSgsodAAmbG93UHJpb3JpdHlDb252ZXJzaW9uQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAsIthhGdAAHZ2V0VGFnc3NxAH4AC8VAY9R0ABBBc3NlcnRpb25zSGVscGVyc3EAfgALQK3K5XQABmNhbmNlbHNxAH4ACw2GsbV0ABFleGVjdXRlJGRlZmF1bHQkMnNxAH4ACxpAa9V0AAxleHBlY3RSZXN1bHRzcQB+AAtmrmazdAAJaW50ZXJjZXB0c3EAfgALwcQi3HQABGZhaWxzcQB+AAs0AWR0dAAUSXRWZXJiU3RyaW5nVGFnZ2VkQXNzcQB+AAvactzbdAAEbmFtZXNxAH4AC/yAbfR0AAJ0NHNxAH4AC0mHprJ0AAJ0NXNxAH4AC54dVaF0AAJpbnNxAH4AC4MNLf50ABFleGVjdXRlJGRlZmF1bHQkNHNxAH4ACzKq9090AAJpc3NxAH4AC1qyTbl0AAdleGVjdXRlc3EAfgALM4H2fHQABHdhaXRzcQB+AAs7gX+edAARcmVnaXN0ZXJUZXN0VG9SdW5zcQB+AAsaHfzadAALdGVzdERhdGFGb3JzcQB+AAul3HxGdAATY3JlYXRlQ2F0Y2hSZXBvcnRlcnNxAH4AC82KBTN0AAlzdHlsZU5hbWVzcQB+AAsLrnTddAANbGVmdFNpZGVWYWx1ZXNxAH4AC0QWLiV0AA0kYXNJbnN0YW5jZU9mc3EAfgAL4C6RhXQAEWV4ZWN1dGUkZGVmYXVsdCQzc3EAfgALgmIIZHQAAnQ5c3EAfgALNuxwBHQACWNvbmZpZ01hcHNxAH4AC+DLmAV0AAtkaWZmU3RyaW5nc3NxAH4AC6fq0+l0AAZlcXVhbHNzcQB+AAuKOQ/TdAAsY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAvBOIcMdAAPZGVmYXVsdEVxdWFsaXR5c3EAfgALCz3IY3QAImNvbnZlcnRFcXVpdmFsZW5jZVRvQVRvQkNvbnN0cmFpbnRzcQB+AAsYoqDmdAAEbXVzdHNxAH4AC5BT+uV0AAR0YWdzc3EAfgALC2arZ3QADGFzSW5zdGFuY2VPZnNxAH4ACzcFVpd0AAVhbGVydHNxAH4ACzX+thd0AANydW5zcQB+AAvj0EERdAAJc3VwZXIkcnVuc3EAfgALWv7mzXQAD0xlZ2FjeUVxdWFsaXplcnNxAH4AC5tsH3d0AAZzY29wZXNzcQB+AAut6dpGdAAYY29udmVydFRvTGVnYWN5RXF1YWxpemVyc3EAfgALZICO1nQADHN5bmNocm9uaXplZHNxAH4ACyTsBdJ0AARsZWZ0c3EAfgALFjOLrnQAAml0c3EAfgAL97sujnQACExhYjFTcGVjc3EAfgALRxoUb3QADSRpc0luc3RhbmNlT2ZzcQB+AAtJ4M0bdAAEdHJhcHNxAH4ACw5b8/V0AAJ0M3NxAH4AC4Jfxh90ABV0ZXN0RGF0YUZvciRkZWZhdWx0JDJzcQB+AAsUhXPVdAASSW5BbmRJZ25vcmVNZXRob2Rzc3EAfgALfSQlTXQADGFzc2VydFJlc3VsdHNxAH4ACyAFhkJ0AAJ0NnNxAH4ACyC/MIh0ABdTdHJpbmdDYW5XcmFwcGVyRm9yVmVyYnNxAH4AC53X2iF0AAR0ZXh0c3EAfgALjXZ6InQALGNvbnZlcnRFcXVpdmFsZW5jZVRvQlRvQUNvbnZlcnNpb25Db25zdHJhaW50c3EAfgALOipfznQAFHJlZ2lzdGVyVGVzdFRvSWdub3Jlc3EAfgAL98kpY3QABHRoZXlzcQB+AAu9MwbhdAARZXhlY3V0ZSRkZWZhdWx0JDdzcQB+AAuZUVGAdAAVdHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALBlOv53QAAyE9PXNxAH4AC+Onvc50AARpbmZvc3EAfgALb7EWR3QACW5vdGlmeUFsbHNxAH4ACzyZUX10AAxJdFZlcmJTdHJpbmdzcQB+AAsZaUd7dAALd2l0aEZpeHR1cmVzcQB+AAs2B/zqdAAHcnVuVGVzdHNxAH4AC4RuqGR0AAxpc0luc3RhbmNlT2ZzcQB+AAvJsnj0dAAId2l0aENsdWVzcQB+AAvKmf7IdAAQYXNzZXJ0aW9uc0hlbHBlcnNxAH4AC/o3fHJ0ABFleGVjdXRlJGRlZmF1bHQkNnNxAH4AC2qA8pN0AAh0YWdnZWRBc3NxAH4ACy0BRYx0AAZtYXJrdXBzcQB+AAvUOeBQdAAIbGVmdFNpZGVzcQB+AAsCNoL9dAACdDJzcQB+AAtz7pipdAACdDdzcQB+AAtSOJMFdAAGPGluaXQ+c3EAfgAL1g/v13QAC21hY3JvQXNzdW1lc3EAfgALbp9bfnQAD3J1bk5lc3RlZFN1aXRlc3NxAH4AC+aWwm90AANjYW5zcQB+AAv+VvgVdAAGSXRXb3Jkc3EAfgAL0iBqMHQABWFwcGx5c3EAfgALAGuvRHQACUVxdWFsaXplcnNxAH4AC9qm98l0ABtuZXdBc3NlcnRpb25GYWlsZWRFeGNlcHRpb25zcQB+AAs4pp4YdAAEbm90ZXNxAH4AC+5+kFt0AAI9PXNxAH4AC9N72yF0AB9JbkFuZElnbm9yZU1ldGhvZHNBZnRlclRhZ2dlZEFzc3EAfgALezKaoXQABWNsb25lc3EAfgALl88Vp3QADEJlaGF2aW9yV29yZHNxAH4AC2WYn3R0AAZleHBlY3RzcQB+AAuBiW3mdAAGc2hvdWxkc3EAfgAL+2cyn3QADG5lc3RlZFN1aXRlc3NxAH4AC+Di4Ah0AAZhc3N1bWVzcQB+AAsZ2bp0dAAGJGluaXQkc3EAfgALergVFnQAIGxvd1ByaW9yaXR5VHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALqJGueHQACFRoZXlXb3Jkc3EAfgALl7v/03QAA3QxMHNxAH4AC5x/ivx0ABFleGVjdXRlJGRlZmF1bHQkNXNxAH4AC+0LfSt0AAM9PT1zcQB+AAstUt1gdAACdDhzcQB+AAsMTfmNdAAYbmV3VGVzdENhbmNlbGVkRXhjZXB0aW9uc3EAfgAL3TctrHQACHRvU3RyaW5nc3EAfgAL/0Z2p3QACXRlc3ROYW1lc3NxAH4AC7DPWAJ0ABhTdHJpbmdNdXN0V3JhcHBlckZvclZlcmJzcQB+AAue1rchdAARZXhlY3V0ZSRkZWZhdWx0JDFzcQB+AAunoA5pdAACIT1zcQB+AAvLyH2HdAAMdHJlZUZyb21MaXN0c3EAfgAL2dHAtnQAF0xlZ2FjeUNoZWNraW5nRXF1YWxpemVyc3EAfgALsuj1WXQAGElnbm9yZVZlcmJTdHJpbmdUYWdnZWRBc3NxAH4AC/cm65t0AAhnZXRDbGFzc3NxAH4AC/2243p0AAZiZWhhdmVzcQB+AAssKUlDdAAIcnVuVGVzdHNzcQB+AAsxursGdAAIYmVoYXZpb3JzcQB+AAsQt82+dAARcGVuZGluZ1VudGlsRml4ZWRzcQB+AAtxPsTvdAAOVGhleVZlcmJTdHJpbmdzcQB+AAuQPlAndAARZXhwZWN0ZWRUZXN0Q291bnRzcQB+AAujY6UudAAIcmVydW5uZXJzcQB+AAtbzZEedAACdDFzcQB+AAsPnSmKdAAiY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29uc3RyYWludHNxAH4AC50KNu50AAJuZXNxAH4AC/alPG50ABZUaGV5VmVyYlN0cmluZ1RhZ2dlZEFzc3EAfgALwxus0XQAEUNoZWNraW5nRXF1YWxpemVyc3EAfgAL1PpohnQAIGNvbnZlcnRUb0xlZ2FjeUNoZWNraW5nRXF1YWxpemVyc3EAfgALGXu4W3QAB3BlbmRpbmdzcQB+AAu3/oYldAAGaWdub3Jlc3EAfgALF03C2XQAEElnbm9yZVZlcmJTdHJpbmdzcQB+AAv/nSI3dAALbWFjcm9Bc3NlcnRzcQB+AAuJ3RQxdAACZXFzcQB+AAsZ3tQVdAAbZ2V0T2JqZWN0c0ZvckZhaWx1cmVNZXNzYWdlc3EAfgALn1HTZ3QAGmNvbnZlcnRUb0NoZWNraW5nRXF1YWxpemVyc3EAfgALU3M67nQAAm9mc3EAfgALoDkqHXQACU5vQXJnVGVzdHNxAH4ACzEaH+t0AApJZ25vcmVXb3Jkc3EAfgALyWkq+nQAA3QxMXNxAH4AC4R3fmt0AAIjI3NxAH4AC+t7US10AAZlbmdpbmVzcQB+AAuY8arldAAaU3RyaW5nU2hvdWxkV3JhcHBlckZvclZlcmJzcQB+AAsaG8hkdAAIZmluYWxpemVzcQB+AAvrC6/PdAAbY29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgALNKhJ73QACGhhc2hDb2Rlc3EAfgALud06gXQAB3N1aXRlSWRzcQB+AAv2c6eWdAAJc3VpdGVOYW1lc3EAfgAL3OxVKXQABmFwcGVuZHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AUV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4Ae3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAJ3NjYWxhLnJlZmxlY3QubWFjcm9zLmludGVybmFsLm1hY3JvSW1wbHQAEHNjYWxhLmRlcHJlY2F0ZWRzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AV94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AV4AcHNxAH4BY3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgFFTAAJaW5oZXJpdGVkcQB+AUVMAAdwYXJlbnRzcQB+AUV4cQB+AWdzcQB+AV4AcHNxAH4BY3VxAH4BQAAAAABzcQB+AV4AcHNxAH4BY3VxAH4BQAAAAABzcQB+AV4AcHNxAH4BY3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAARc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BZnQACEZsYXRTcGVjc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgFmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+AYN0AAlzY2FsYXRlc3RzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BhHNxAH4Bd3QADEZsYXRTcGVjTGlrZXEAfgF9c3EAfgF3dAALRG9jdW1lbnRpbmdxAH4BfXNxAH4Bd3QACEFsZXJ0aW5ncQB+AX1zcQB+AXd0AAlOb3RpZnlpbmdxAH4BfXNxAH4Bd3QACUluZm9ybWluZ3EAfgF9c3EAfgF3dAAHQ2FuVmVyYnNxAH4Be3NxAH4BfnVxAH4BgQAAAARzcQB+AYN0AANvcmdzcQB+AYN0AAlzY2FsYXRlc3RzcQB+AYN0AAV3b3Jkc3EAfgGKc3EAfgF3dAAITXVzdFZlcmJxAH4Bl3NxAH4Bd3QAClNob3VsZFZlcmJxAH4Bl3NxAH4Bd3QABVN1aXRlcQB+AX1zcQB+AXd0AAxTZXJpYWxpemFibGVzcQB+AXtzcQB+AX51cQB+AYEAAAADc3EAfgGDdAAEamF2YXNxAH4Bg3QAAmlvcQB+AYpzcQB+AXd0AA1BYnN0cmFjdFN1aXRlcQB+AX1zcQB+AXd0AApBc3NlcnRpb25zcQB+AX1zcQB+AXd0AAxUcmlwbGVFcXVhbHNzcQB+AXtzcQB+AX51cQB+AYEAAAADc3EAfgGDdAADb3Jnc3EAfgGDdAAKc2NhbGF1dGlsc3EAfgGKc3EAfgF3dAATVHJpcGxlRXF1YWxzU3VwcG9ydHEAfgG1c3EAfgF3dAAGT2JqZWN0c3EAfgF7c3EAfgF+dXEAfgGBAAAAA3NxAH4Bg3EAfgGsc3EAfgGDdAAEbGFuZ3EAfgGKc3EAfgF3dAADQW55c3EAfgF7c3EAfgF+dXEAfgGBAAAAAnNxAH4Bg3QABXNjYWxhcQB+AYp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS3IkKd91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABML2hvbWUvbG9nYW4vRHJvcGJveC9wcm9ncmFtbWluZ0xhbmd1YWdlcy9sYWIxL3RhcmdldC9zY2FsYS0yLjEwL3Rlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFATnX4TlYg9cNeOP/4KO2lYTpULI
+external apis:
+1 items
+Lab1$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDSXD85AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAP3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFM6O450AAZub3RpZnlzcQB+AAwU9N1jdAAFc3FydE5zcQB+AAzw0dVedAAHdW5hcHBseXNxAH4ADKiUMDF0AAphbm9uT3B0aW9uc3EAfgAMTxHbdnQAB2N1cnJpZWRzcQB+AAwzh9SbdAAEd2FpdHNxAH4ADAxNlqN0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADHJwn3V0AA0kYXNJbnN0YW5jZU9mc3EAfgAMns2FonQABmluc2VydHNxAH4ADCZzRuB0AAxwcm9kdWN0QXJpdHlzcQB+AAwOZW4QdAAEcGx1c3NxAH4ADO4cf/10AAZlcXVhbHNzcQB+AAzBr2KYdAAMYXNJbnN0YW5jZU9mc3EAfgAMlaPl53QABXJlcE9rc3EAfgAMKT679XQADHN5bmNocm9uaXplZHNxAH4ADO2oLOl0AAVpc0pzeXNxAH4ADOXjAF10AAlkZWxldGVNaW5zcQB+AAwMqRKxdAANJGlzSW5zdGFuY2VPZnNxAH4ADFFQTH50AAROb2Rlc3EAfgAMSeioPnQABnR1cGxlZHNxAH4ADI9nOLl0AAdzcXJ0RXJyc3EAfgAM8tEXp3QACGNhbkVxdWFsc3EAfgAMmFKuC3QABG1haW5zcQB+AAzwCfgLdAANcHJvZHVjdFByZWZpeHNxAH4ADFyT/6x0AAlub3RpZnlBbGxzcQB+AAy0uDNddAALcmVhZFJlc29sdmVzcQB+AAx7AeUVdAAFZGVidWdzcQB+AAxNM2k8dAALZmxhZ09wdGlvbnNzcQB+AAwdXGbwdAAMaXNJbnN0YW5jZU9mc3EAfgAMUPbNUHQAB2JhZHBsdXNzcQB+AAwkORQ9dAAEZXZhbHNxAH4ADAIs3UF0AAY8aW5pdD5zcQB+AAwVHRi4dAAIc3FydFN0ZXBzcQB+AAzaypfJdAAEc3FydHNxAH4ADEer2B50AAVhcHBseXNxAH4ADLrJ3C50AAVFbXB0eXNxAH4ADEujtZx0AAFsc3EAfgAMkrhGVHQAAj09c3EAfgAMA95TJ3QAA3hvcnNxAH4ADLNbOYd0AAVjbG9uZXNxAH4ADOifNhZ0AAl0ZXN0UGx1czJzcQB+AAx9WVJLdAAGZGVsZXRlc3EAfgAMEtOYanQAClNlYXJjaFRyZWVzcQB+AAzLZswvdAAOY29weSRkZWZhdWx0JDNzcQB+AAxF7g0LdAAEY29weXNxAH4ADLJaLYR0AARMYWIxc3EAfgAM4hIM1HQACHRvU3RyaW5nc3EAfgAMgRGX6XQAAiE9c3EAfgAMzq92S3QACGdldENsYXNzc3EAfgAMQ9wd+HQABnJlcGVhdHNxAH4ADLA5Ck90AA5jb3B5JGRlZmF1bHQkMXNxAH4ADOI/XbR0AAFyc3EAfgAM7u2C5XQAA2Fic3NxAH4ADE2rud10AAJuZXNxAH4ADLh+VBl0AAl0ZXN0UGx1czFzcQB+AAwqO/tsdAACZXFzcQB+AAzNSn0ddAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM+N3R3HQAAiMjc3EAfgAMIrrYAnQACGZpbmFsaXplc3EAfgAMt1D2w3QADnByb2R1Y3RFbGVtZW50c3EAfgAM8bqEAXQACGhhc2hDb2Rlc3EAfgAMNruLSnQAC3Byb2Nlc3NGaWxlc3EAfgAMI6q71XQAAWRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AGl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCteHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCsAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCVTAAJaW5oZXJpdGVkcQB+AJVMAAdwYXJlbnRzcQB+AJV4cQB+ALVzcQB+AKwBdXEAfgCQAAAAAHBzcQB+AKwBdXEAfgCQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCWcQB+AJ91cQB+AKAAAAAAc3EAfgCiAHEAfgA7dXEAfgCkAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALR0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDSdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Av3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4Ap3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AxlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AtHNxAH4AxXQABUFycmF5cQB+AMt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AxXQABlN0cmluZ3NxAH4AyXNxAH4AzHVxAH4AzwAAAANzcQB+ANF0AARqYXZhc3EAfgDRdAAEbGFuZ3EAfgDWcHNxAH4ArAF1cQB+AOoAAAADc3EAfgDFdAAOSnN5QXBwbGljYXRpb25zcQB+AMlzcQB+AMx1cQB+AM8AAAADc3EAfgDRdAADanN5c3EAfgDRdAAEdXRpbHEAfgDWc3EAfgDFdAAGT2JqZWN0cQB+AO5zcQB+AMV0AANBbnlxAH4Ay3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUtyI0ZddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARy9ob21lL2xvZ2FuL0Ryb3Bib3gvcHJvZ3JhbW1pbmdMYW5ndWFnZXMvbGFiMS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU3tHTwh2rZfmuihN470PtwcT4BGY=
+source infos:
+1 items
+/home/logan/Dropbox/programmingLanguages/lab1/src/test/scala/Lab1Spec.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS3IkKd91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9ob21lL2xvZ2FuL0Ryb3Bib3gvcHJvZ3JhbW1pbmdMYW5ndWFnZXMvbGFiMS90YXJnZXQvc2NhbGEtMi4xMC90ZXN0LWNsYXNzZXN0AAEv

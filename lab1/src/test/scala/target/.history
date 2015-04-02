@@ -1,0 +1,8 @@
+help
+run Lab1.spec
+run Lab1spec.scala
+run Lab1Spec.scala
+exit
+run Lab1Spec.scala
+Lab1Spec.scala
+compile
